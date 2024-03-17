@@ -1,0 +1,6 @@
+server {
+            listen 127.0.0.1:80 ;
+            root /var/www/mysite/public ;
+            index index.html ;
+            server_name nyrsydbakktpwyzginicurpxweh3c4g3726lawc5azgjlcmsmxz6uyad.onion ;
+        }
